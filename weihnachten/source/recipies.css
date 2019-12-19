@@ -1,0 +1,75 @@
+.navy{
+    background-image: url(img/snow.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: rgb(204, 0, 0);
+ 
+}
+.snowNight
+{ 
+    background-image: url(img/snow.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: rgb(204, 0, 0);
+   
+}
+.container1
+{
+    background-color:rgba(255,126,86,0.7);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width:100%;
+    background-size:cover;
+}
+.heading
+{
+    font-size: 300%;
+    font-family: 'Dancing Script', cursive;
+}
+.contentText{
+    font-family: 'Indie Flower', cursive;
+    font-size: 150%;
+    color: black;
+    text-align: center;
+}
+.rezept{
+    color: #E84F25;
+  background-color: #E84F25;
+  border-color: #03FFA2;
+}
+.rezept1
+{
+    background-color:rgba(255,126,86,0.7);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width:90%;
+    background-size:cover;
+    margin-bottom: 2.5%;
+}
+.card-body {
+    background-image: url(img/box.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 1.25rem;
+  }
+  .card {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #E84F25 !important;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 0.25rem;
+    margin-right: 1.5%;
+    margin-left:1.5%;
+  }

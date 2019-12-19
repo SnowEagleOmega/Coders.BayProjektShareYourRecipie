@@ -1,0 +1,60 @@
+/*
+font-family: 'Indie Flower', cursive;
+font-family: 'Dancing Script', cursive;
+*/
+
+/*
+Background for Body
+*/
+.snowNight
+{ 
+    background-image: url(img/snow.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: rgb(204, 0, 0);
+   
+}
+/*
+Background for Navbar
+*/
+.navy{
+    background-image: url(img/snow.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: rgb(204, 0, 0);
+ 
+}
+.heading
+{
+    font-size: 40px;
+    font-family: 'Dancing Script', cursive;
+}
+.container1
+{
+    background-color:rgba(255,126,86,0.7);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width:90%;
+    background-size:cover;
+}
+.kugeln
+{
+    width: 100%;
+    height:50%;
+}
+.contentText{
+    font-family: 'Indie Flower', cursive;
+    font-size: 150%;
+    color: black;
+    text-align: center;
+}
+.textfield {
+    width:25%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
